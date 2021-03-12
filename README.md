@@ -1,6 +1,7 @@
 # 🧑‍💻 relaxdays-challenge
 
 Template project for tasks of the Relaxdays Code Challenge Vol. 1.
+Replace `<PORT>` and `<COMMAND>` with appropriate values after forking.
 
 This project was created in the Relaxdays Code Challenge Vol. 1.
 See the [hackathon homepage](https://sites.google.com/relaxdays.de/hackathon-relaxdays/startseite) for more information.
